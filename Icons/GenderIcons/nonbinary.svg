@@ -1,3 +1,3 @@
-<svg stroke-width="2" stroke="#fff" fill="none" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
 	<path d="M16.5,6.5 C16.5,9.26083333 14.2608333,11.5 11.5,11.5 C8.73916667,11.5 6.5,9.26083333 6.5,6.5 C6.5,3.73916667 8.73916667,1.5 11.5,1.5 C14.2608333,1.5 16.5,3.73916667 16.5,6.5 Z M11.5,11.5 L11.5,17.5 M8.5,14.5 L14.5,20.5 M8.5,20.5 L14.5,14.5" transform="matrix(1 0 0 -1 0 22)" />
 </svg>
